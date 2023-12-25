@@ -9,8 +9,11 @@ This project involves the development of a website for Cow Bay Fishing Charters,
 Key Features:
 <br>
 Gallery: Showcases high-quality images of past fishing trips, catches, and scenic views.
+<br>
 Testimonials: Features reviews and experiences from previous customers.
+<br>
 Responsive Design: Ensures a seamless experience across various devices and screen sizes.
+<br>
 Contact Form: Enables potential customers to reach out for inquiries and reservations.
 
 Technologies:
